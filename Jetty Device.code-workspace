@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "Duck Pond Jetty Esp32",
+			"path": "Duck Pond Jetty Esp32"
 		}
 	],
 	"settings": {}
